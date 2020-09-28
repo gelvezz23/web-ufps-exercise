@@ -1,0 +1,20 @@
+/** @format */
+
+.contenido {
+	z-index: 0;
+	display: flex;
+	width: 100%;
+	flex-direction: column;
+}
+.contenido-tittle {
+	margin: 15px;
+	font-size: 35px;
+	width: 100%;
+}
+.contenido-lista {
+	display: flex;
+	margin-left: 60px;
+	flex-direction: column;
+}
+.contenido h3 {
+}

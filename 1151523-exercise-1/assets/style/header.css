@@ -1,0 +1,9 @@
+/** @format */
+
+header {
+	align-items: center;
+	display: flex;
+	height: 80px;
+	justify-content: center;
+	width: 100%;
+}

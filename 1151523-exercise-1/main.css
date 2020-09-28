@@ -1,0 +1,18 @@
+/** @format */
+
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+.container {
+	flex-direction: column;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
